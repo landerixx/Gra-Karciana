@@ -1,1 +1,6 @@
-Gra karciana z kursu javy
+Gra Karciana
+
+============
+
+
+Gra Karciana kareta  kursu javy.
